@@ -60,26 +60,15 @@ section {
     background: #fff;
 }
 .container{
-    display: flex;
+    display:contents;
     justify-content: space-between;
-    padding:0px;
+    padding:0p;
+    align-items: center;
 }
-.right{
-    width: 22%;
-    text-align: right;
-    padding-right: 30px;
-    background-color: rgb(233, 158, 19);
-}
-.right img{
-    max-width: 200%;
-    text-size-adjust: bold;
-    padding-right: 5px;
 
-}
 .box{
   width: 300px;
-  margin: left 0px;;
-  text-align: left;
+  
 }
 .details{
     padding-left: 50px;
